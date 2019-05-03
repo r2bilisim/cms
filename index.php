@@ -5,7 +5,7 @@
   <body data-open="click" data-menu="vertical-menu" data-col="2-columns" class="vertical-layout vertical-menu 2-columns fixed-navbar">
             <noscript>
                 <p class="alert alert-danger" style="text-align: center; padding: 50px">
-                    <strong>Bu siteden en iyi şekilde yararlanabilmek için lütfen tarayıcınızın JAVASCRIPT destek özelliğini aktifleştiriniz.<br> Aksi halede birçok özellik çalışmayacaktır!</strong>
+                    <strong>Bu siteden en iyi şekilde yararlanabilmek için lütfen tarayıcınızın JAVASCRIPT destek özelliğini aktifleştiriniz.<br>  Aksi halede birçok özellik çalışmayacaktır! </strong>
                 </p>
             </noscript>      
     <!-- navbar-fixed-top-->
